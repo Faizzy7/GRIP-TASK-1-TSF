@@ -39,10 +39,6 @@ plt.title('Hours vs Percentage')
 plt.xlabel('Hours Studied')  
 plt.ylabel('Percentage Score')  
 plt.show()
-![image](https://user-images.githubusercontent.com/75571307/152641157-03fc4a27-562c-44aa-87a7-56b8ee146f8f.png)
-
-
-
 
 # From the graph above, we can clearly see that there is a positive linear relation between the number of hours studied and percentage of score
 
@@ -95,6 +91,7 @@ print("MEAN ABSOLUTE ERROR:", metrics.mean_absolute_error(Y_test, Y_pred))
 
 print("TASK COMPLETED")
 ```
+
 
 
 
