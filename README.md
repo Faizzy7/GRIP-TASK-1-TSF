@@ -19,6 +19,18 @@ s_data = pd.read_csv(url)
 print("Data imported successfully")
 
 s_data.head(10)
+output:
+   Hours  Scores
+0    2.5      21
+1    5.1      47
+2    3.2      27
+3    8.5      75
+4    3.5      30
+5    1.5      20
+6    9.2      88
+7    5.5      60
+8    8.3      81
+9    2.7      25
 
 
 # Plotting the distribution of scores
@@ -27,6 +39,10 @@ plt.title('Hours vs Percentage')
 plt.xlabel('Hours Studied')  
 plt.ylabel('Percentage Score')  
 plt.show()
+![FIG1](https://user-images.githubusercontent.com/75571307/152640910-315741eb-3a91-4e90-8184-7df6ed019442.png)
+![FIG1](https://user-images.githubusercontent.com/75571307/152640951-cebd85a1-5525-4459-ace1-623170944ba9.png)
+
+
 
 # From the graph above, we can clearly see that there is a positive linear relation between the number of hours studied and percentage of score
 
