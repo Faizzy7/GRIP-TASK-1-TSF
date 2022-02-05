@@ -39,8 +39,8 @@ plt.title('Hours vs Percentage')
 plt.xlabel('Hours Studied')  
 plt.ylabel('Percentage Score')  
 plt.show()
-![FIG1](https://user-images.githubusercontent.com/75571307/152640910-315741eb-3a91-4e90-8184-7df6ed019442.png)
-![FIG1](https://user-images.githubusercontent.com/75571307/152640951-cebd85a1-5525-4459-ace1-623170944ba9.png)
+![image](https://user-images.githubusercontent.com/75571307/152641157-03fc4a27-562c-44aa-87a7-56b8ee146f8f.png)
+
 
 
 
