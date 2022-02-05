@@ -6,10 +6,9 @@ To predict the score of student studies for (9.25)Hours/Day
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-# Importing all libraries required in this notebook
 ```
+# Importing all libraries required in this notebook
+
 import pandas as pd
 import numpy as np  
 import matplotlib.pyplot as plt 
